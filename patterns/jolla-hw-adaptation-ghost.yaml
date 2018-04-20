@@ -14,7 +14,7 @@ Requires:
 - droid-config-ghost-policy-settings
 - droid-config-ghost-preinit-plugin
 - droid-config-ghost-flashing
-- droid-config-ghost-bluez4
+- droid-config-ghost-bluez5
 - droid-hal-version-ghost
 
 # Hybris packages
